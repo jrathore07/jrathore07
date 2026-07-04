@@ -24,3 +24,50 @@
 - ---
 
 ## 🛠 Tech Stack
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,python,git,github,maven,postman,idea,vscode" />
+
+</p>
+
+### 💻 Libraries & Frameworks
+
+- Spring Boot
+- REST APIs
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+- ---
+
+## 📚 Currently Learning
+
+- 📖 Data Structures & Algorithms
+- ⚙️ System Design
+- 🔐 Spring Security
+- ☁️ Microservices
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Journal Management System**
+
+> Spring Boot • MongoDB • REST APIs
+
+🔹 **FinePayGo**
+
+> Java • MySQL • Twilio • Payment Gateway
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: your-email@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/jaydeep-rathore/
+
+🐙 GitHub:
+https://github.com/jrathore07
